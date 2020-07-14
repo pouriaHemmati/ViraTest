@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Vira Test</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="home">home</string>
+    <string name="home2">home2</string>
+    <string name="home3">home3</string>
+    <string name="home4">home4</string>
+    <string name="sport">sport</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="app_record">Record Video</string>
+    <string name="txt_filter">بازی های زنده</string>
+    <string name="txt_today_game">بازی های امروز</string>
+    <string name="englandLig">لیگ انگلیس</string>
+    <string name="live">زنده</string>
+    <string name="cancel">کنسل شده</string>
+</resources>
